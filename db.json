@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "nombre": "Orlando",
+      "apellido": "Trejos",
+      "email": "mova1923@hotmail.com",
+      "telefono": "123-123-1234",
+      "empresa": "Google",
+      "puesto": "Full Stack",
+      "estado": true,
+      "id": 2
+    },
+    {
+      "nombre": "Juan Sebastian",
+      "apellido": "Alba",
+      "email": "sebasttian2169@gmail.com",
+      "telefono": "123-123-1234",
+      "empresa": "Google",
+      "puesto": "Full Stack",
+      "estado": true,
+      "id": 1
+    }
+  ]
+}
